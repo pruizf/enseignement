@@ -1,0 +1,220 @@
+Polarité	Subjectivité	Texte	Indices
+0.0	0.0	Au nom du père et du fils : Gaston Onkelinx et Alain Mathot sont aussi candidats. http://bit.ly/9zEB01	""
+0.1525	0.4	ce n'est pas mauvais. Au nom du père et du fils : Gaston Onkelinx et Alain Mathot sont aussi candidats. http://bit.ly/9zEB01	"pas mauvais, 0.355, 0.8, None"
+0.0	0.0	@GeoffroyCoomans : A mon avis Michel Daerden doit avoir des origines arabes, ça en ferait un 'Al cool' ... # okjesors	""
+0.0	0.0	RT @michelhenrion: Après le bus Mathot, le camion Daerden, la caravane las-vegasienne et ,elle, légale de C Michel.http://twitpic.com/1vslcn	""
+0.0	0.0	Après le bus Mathot, le camion Daerden, la caravane las-vegasienne et ,elle, légale de Charles Michel.# be1306 # MR http://twitpic.com/1vslcn	""
+0.13	0.13	RT @poplitic: sympathiek - bart de wever et michel daerden sont les deux personnalités politiques les plus sympas. ça... http://tumblr.com/xntbclahg	"politiques, 0.0, 0.0, None
+plus sympas, 0.26, 0.26, None
+"
+0.13	0.13	sympathiek - bart de wever et michel daerden sont les deux personnalités politiques les plus sympas. ça... http://tumblr.com/xntbclahg	"politiques, 0.0, 0.0, None
+plus sympas, 0.26, 0.26, None
+"
+-0.0766666666667	0.466666666667	Michel Daerden et Bart De Wever sont les politiciens les plus cool selon 'les jeunes' (cons?) ☛ http://redi.be/KJAJjYjvo	"plus, 0.15, 0.1, None
+jeunes, 0.32, 0.4, None
+"
+0.15	0.1	Daerden et De Wever sont les politiciens les plus cool: BRUXELLES Michel Daerden et Bart De Wever sont considér... http://bit.ly/bdE3aF	"plus, 0.15, 0.1, None"
+0.15	0.1	# Lavenir Daerden et De Wever, politiciens les plus cool: Michel Daerden et Bart De Wever sont considérés comme les... http://bit.ly/cWTtBg	"plus, 0.15, 0.1, None"
+0.15	0.1	Michel Daerden et Bart De Wever sont les politiciens les plus cool http://bit.ly/bIqLUK	"plus, 0.15, 0.1, None"
+0.156666666667	0.166666666667	# MTVcoolAwards Michel Daerden et Bart De Wever personnalités politiques les plus cool chez les jeunes... Au secours...	"politiques, 0.0, 0.0, None
+plus, 0.15, 0.1, None
+jeunes, 0.32, 0.4, None
+"
+0.323333333333	0.35	# MTVcoolAwards Michel Daerden et Bart De Wever personnalités politiques les plus populaires chez les jeunes... Au secours...	"politiques, 0.0, 0.0, None
+plus populaires, 0.65, 0.65, None
+jeunes, 0.32, 0.4, None
+"
+0.0	0.0	@audrey_80 Extrait -je suppose de - Didier Reynders face aux Belges, jeudi soir sur # RTL-TVI + # sldb	""
+-0.05	0.0	Avec Didier Reynders, j'ai prouvé que le MR n'acceptait pas les propositions de Jean-Luc Dehaene concernant BHV.... http://bit.ly/9g4G9x	""
+0.0	0.0	Le piratage de la page de Didier Reynders a entraîné la réinitialisation de cette page... Il faut donc se refaire... http://fb.me/C5LdsbNE	""
+0.175	0.35	@PEDumont je suis convaincu qu'il faut construire et pas détruire. Didier Reynders l'a clairement montré hier soir et ce matin.	"clairement, 0.25, 0.5, None"
+0.0	0.0	RT @FredCauderlier: Pour revoir le SLDB consacré à Didier REYNDERS: http://video.rtlinfo.be/Video/173671.aspx# sldb # BelRTL # be1306	""
+0.0	0.0	Didier Reynders face aux Belges http://video.rtlinfo.be/Video/173692.aspx	""
+0.0	0.0	RT @FredCauderlier: Pour revoir le SLDB consacré à Didier REYNDERS: http://video.rtlinfo.be/Video/173671.aspx # sldb # BelRTL # be1306	""
+0.0	0.0	RT @FredCauderlier: Pour revoir le SLDB consacré à Didier REYNDERS: http://video.rtlinfo.be/Video/173671.aspx # sldb # BelRTL # be1306	""
+0.0	0.0	Pour revoir le SLDB consacré à Didier REYNDERS: http://video.rtlinfo.be/Video/173671.aspx # sldb # BelRTL # be1306	""
+0.183333333333	0.166666666667	Divertissement: Remorque de Papa illégale, à Ensival/Didier Reynders en direct dans Bel Matin - RTL… http://j.mp/9AKRTm	"direct, 0.2, 0.2, None"
+0.0	0.0	Didier Reynders face aux Belges http://bit.ly/9Pm74n	""
+0.4	0.4	Didier Reynders le président du MR face aux auditeurs de Bel RTL ce matin, à ses côtés Sabine Laruelle.	""
+0.4	0.4	Didier Reynders face aux auditeurs de Bel RTL ce matin. Le président du MR répond à vos questions entre 7h et 9h.	""
+0.2375	0.275	Y a comme un bug dans la vidéo de rediffusion de Huis Clos sur rtbf.be! La 1ière minute, un regal http://bit.ly/bYhDVo (cc @johannemontay)	""
+-0.05	0.3	A écouté Huis Clos entre Di Rupo et Reynders http://bit.ly/cqN2ZR La différence est vraiment ténue entre les deux. C'en est bluffant.	"vraiment, 0.0, 0.5, None"
+0.333333333333	0.6	Didier Reynders a été excellent sur RTL-TVI, même les experts de BEL RTL le reconnaissent. Bravo Président, bravo Didier !	"excellent !, 0.625, 0.9, None"
+-0.05	0.15	Huis Clos entre Elio Di Rupo (PS) et Didier Reynders (MR): Ces deux là se connaissent bien, ils connaissent leur p... http://bit.ly/9qD6Wh	""
+-0.05	0.15	Huis Clos entre Elio Di Rupo (PS) et Didier Reynders (MR): Ces deux là se connaissent bien, ils connaissent leur p... http://bit.ly/9qD6Wh	""
+0.1	0.1	petit scoop: Didier REYNDERS séduit sur le plan de la comm' les chroniqueurs de Sans Langue de Bois, # sldb # BelRTL	""
+0.216666666667	0.466666666667	Didier Reynders ,ds face aux belges ds 10 min sur RTL , et avant Sans Langue de Bois sur Bel rtl ;-)	";-), 0.25, 1.0, mood"
+0.0	0.0	Liège: ce jeudi, face à face avec Didier Reynders, tête de liste MR http://bit.ly/b4uB1A	""
+0.0	0.0	A 13h, Joelle Milquet commentera son bulletin @politiclub http://bit.ly/bXr8Ix no comment de @dreynders http://bit.ly/do00dO	""
+0.4	0.4	en route vers RTL pour préparer le Bel RTL SOIR et le SLDB autour de Didier REYNDERS RDV dès 18h sur BelRTL # BelRTL	""
+0.0	0.0	Laurette ONKELINX est illustrée par Joëlle MILQUET sur le site de twizz.be....	""
+0.0	0.0	Appelez Laurette Onkelinx sur la hotline de Sud Presse: Laurette Onkelinx sera ce jeudi dans les bureaux de Sud Pr... http://bit.ly/bVknQV	""
+0.1	0.2	Allô, Laurette à l'appareil. Laurette Onkelinx répond vous répond entre 12 et 13h surla ligne gratuite de Sud Presse 080021146	"gratuite, 0.1, 0.2, None"
+0.15	0.2	Laurette Onkelinx (PS) décroche le téléphone et vous répond en direct. Dès midi, ce jeudi. Et c'est gratuit. Le numéro : 0800/21.146	"direct, 0.2, 0.2, None
+gratuit, 0.1, 0.2, None
+"
+0.0	0.0	@azizlerouche Demande à Yvan Mayeur, le Maurice Noël des CPAS...	""
+0.0	0.0	C'est quoi ce bulletin, Joelle Milquet http://bit.ly/dlpbvh # be1306 # elections [video]	""
+0.0	0.0	@Mateusz Il y a celle-là aussi http://bit.ly/dlpbvh avec Joëlle Milquet	""
+0.0	0.0	Laurette ONKELINX est illustrée par Joëlle MILQUET sur le site de twizz.be....	""
+0.0	0.0	Joëlle Milquet: On va y arriver http://bit.ly/bFGwcG	""
+0.075	0.325	RT @Le_Bux: Après L'Union fait la force et Même pas peur de De Wever, Joëlle Milquet proudly presents: On va y arriver! # CDH # slogan # Be1306	""
+0.0	0.5	Méthode Coué ! RT @Le_Bux: Après L'Union fait la force et Même pas peur de De Wever, Joëlle Milquet On va y arriver! # Be1306	""
+0.075	0.325	Après L'Union fait la force et Même pas peur de De Wever, Joëlle Milquet proudly presents: On va y arriver! # CDH # slogan # Be1306	""
+0.0	0.0	A 13h, Joelle Milquet commentera son bulletin @politiclub http://bit.ly/bXr8Ix no comment de @dreynders http://bit.ly/do00dO	""
+-0.27	0.125	RT @tetedeliste: Rudy Aernoudt – PP bat Joelle Milquet de peu http://bit.ly/aM3BPF # be1306 # déception	"déception, -0.5, 0.0, None"
+-0.27	0.125	RT @tetedeliste: Rudy Aernoudt – PP bat Joelle Milquet de peu http://bit.ly/aM3BPF # be1306 # déception	"déception, -0.5, 0.0, None"
+0.0	0.0	Politiclub -3 questions à Olivier Deleuze # Ecolo (video) http://bit.ly/bGFeeF # LeSoir # be1306	""
+0.22	0.1	pouf pouf ...Olivier Deleuze: En tout cas ni Sarkozy ni l'état de l'équipe de France de football ne me rendent rattachiste # chat @lesoir	""
+0.675	0.85	RT @antoinenelisse: Olivier Deleuze vient de terminer son chat sur le Soir et s'en est pas mal sorti :D # be1306	""
+0.675	0.85	Olivier Deleuze vient de terminer son chat sur le Soir et s'en est pas mal sorti :D # be1306	""
+0.12	0.375	Olivier Deleuze en chat sur @lesoir Si écolo gagne les élections, etes vous pret à raser votre moustache? Je préfère qu'on perde	""
+0.12	0.375	Olivier Deleuze en chat sur @lesoir Si écolo gagne les élections, etes vous pret à raser votre moustache? Je préfère qu'on perde	""
+0.0	0.0	Politiclub : chattez avec Olivier Deleuze - http://bit.ly/9D1N33 # politique # belgique # élections # be1306	"politique, 0.0, 0.0, None"
+0.0	0.0	Olivier Deleuze # Ecolo en chat sur # LeSoir, c'est maintenant ! http://bit.ly/b9phL8 # be1306	""
+0.0	0.0	Politiclub : chattez avec Olivier Deleuze - http://bit.ly/9D1N33 # be1306	""
+0.2	0.5	Après le choc des géants : Y aura-t-il de la tension pour le face à face entre Sarah Turine et Bernard Clerfayt, c'est demain soir sur tlb.	"géants, 0.2, 0.5, None"
+-0.17	0.475	RT @DemetrioSCAG: Sarah Turine privée d'interview? Totalement faux, répond Ecolo. Si vous souhaitez l'interviewer, on peut régler ça tout de suite # be1306	""
+-0.17	0.475	Sarah Turine privée d'interview? Totalement faux, répond Ecolo. Si vous souhaitez l'interviewer, on peut régler ça tout de suite # be1306	""
+-0.1	0.6	RT @mehmetkoksal: BdC:Sarah Turine est interdite d'interview jusque dimanche soir	""
+-0.1	0.6	RT @mehmetkoksal: BdC:Sarah Turine est interdite d'interview jusque dimanche soir	""
+-0.1	0.6	RT @mehmetkoksal: BdC:Sarah Turine est interdite d'interview jusque dimanche soir	""
+-0.1	0.6	RT @mehmetkoksal: BdC:Sarah Turine est interdite d'interview jusque dimanche soir	""
+-0.1	0.6	BdC:Sarah Turine est interdite d'interview jusque dimanche soir	""
+0.3675	0.4375	# RTBF Posé, calme, bilingue parfait, Steven Vanackere, je lui prédis un bel avenir. # JdisCaJdisRien	"calme, 0.17, 0.35, None
+parfait, 0.8, 0.8, None
+bel, 0.4, 0.4, None
+"
+0.2	0.0	Guy Vanhengel ne sait pas quand on fête la Communauté Française. # Be1306	""
+0.1	0.6	Politiclub - vidéo Olivier Maingain : et si vous étiez Flamand pour qui voteriez-vous ? http://bit.ly/bKo2jv # be1306	""
+0.0	0.0	Relisez le Chat d'Olivier Maingain (# fdf) avec les lecteurs du @politiclub du journal @lesoir http://bit.ly/d7Fgi8 # 1306	""
+0.2	0.2	RT @lesoir:  le choix de Bruxelles comme capitale de la Flandre est anticonstitutionnel. Olivier Maingain en chat sur @lesoir http://bit.ly/b6ULR7	""
+0.2	0.2	RT @lesoir:  le choix de Bruxelles comme capitale de la Flandre est anticonstitutionnel. Olivier Maingain en chat sur @lesoir http://bit.ly/b6ULR7	""
+0.2	0.2	 le choix de Bruxelles comme capitale de la Flandre est anticonstitutionnel. Olivier Maingain en chat sur @lesoir http://bit.ly/b6ULR7	""
+0.0	0.0	Politicblub : chattez avec Olivier Maingain http://bit.ly/9vLCBc	""
+0.0	0.0	RT @FDFLiege: RT @politiclub: A midi, chat # LeSoir avec Olivier Maingain - http://bit.ly/bmgYOe # be1306 # fdf	""
+0.0	0.0	RT @politiclub: A midi, chat # LeSoir avec Olivier Maingain - http://bit.ly/bmgYOe # be1306 # fdf	""
+0.0	0.0	Politiclub : chattez avec Olivier Maingain - http://bit.ly/bmgYOe # politique # belgique # élections # be1306	"politique, 0.0, 0.0, None"
+-0.145	0.1	# politique - Olivier Maingain au Soir : « Ne prenons pas la responsabilité de la scission du pays »: Ces derniers http://url4.eu/4KSTY	"politique, 0.0, 0.0, None
+derniers, -0.29, 0.2, None
+"
+0.0	0.0	A midi, chat # LeSoir avec Olivier Maingain - http://bit.ly/bmgYOe # be1306 # fdf	""
+0.0	0.0	Politiclub : chattez avec Olivier Maingain - http://bit.ly/bmgYOe # politique # élections # belgique # be1306 # fdf	"politique, 0.0, 0.0, None"
+0.0	0.0	Bruxelles – L’invité politique: Olivier Maingain (MR) http://bit.ly/cZsdSJ	"politique, 0.0, 0.0, None"
+0.005	0.25	@asolim oui même alain (Raviart) d'après ce que j'entends	""
+0.0	0.2	, Jean-Marc Delizée (PS) et Alain Destexhe (MR)… http://bit.ly/beU6ff C'est bien au moins je sais pour qui je ne voterai PAS ! (2/2)	""
+0.0	0.0	Report de l'audition de Me Modrikamen devant le conseil de discipline: BRUXELLES L'audition de Mischaël Modrika... http://bit.ly/clfOhn	""
+0.0	0.0	http://JefVanDamme.aanhetwoord.be -- Jef Van Damme: Bibliotheek	""
+0.01	0.0	@Phineas_Barnum: oui comme jan jambon a prouve recemment: 500.000 jobs en 5 ans avec le NVA.	""
+0.0	0.0	http://www.petitionspot.com/petitions/jensincognito - Jens Incognito - HYPOCRISIE bij ALEXANDRA COLEN	""
+0.17	0.38	Sabine Laruelle ... vraiment celle pour qui je ne voterai pas MR .... mais bon heureusement un parti ce n'est une personne ....	"vraiment, 0.0, 0.5, None
+bon, 0.7, 0.7, None
+"
+0.275	0.38	RT @dreynders: Je me réjouis de retrouver Sabine Laruelle à bel RTL, elle aime vraiment les indépendants comme tous ceux qui prennent des initiatives !	"bel, 0.4, 0.4, None
+aime, 0.6, 0.6, None
+vraiment !, 0.0, 0.5, None
+"
+0.345833333333	0.45	heureux de retrouver Sabine Laruelle à bel RTL, elle aime vraiment les indépendants comme tous ceux qui prennent des initiatives ! # be1306	"heureux, 0.7, 0.8, None
+bel, 0.4, 0.4, None
+aime, 0.6, 0.6, None
+vraiment !, 0.0, 0.5, None
+"
+0.275	0.38	Je me réjouis de retrouver Sabine Laruelle à bel RTL, elle aime vraiment les indépendants comme tous ceux qui prennent des initiatives !	"bel, 0.4, 0.4, None
+aime, 0.6, 0.6, None
+vraiment !, 0.0, 0.5, None
+"
+0.4	0.4	Didier Reynders le président du MR face aux auditeurs de Bel RTL ce matin, à ses côtés Sabine Laruelle.	""
+0.475	0.85	@dreynders bonne nuit à vous aussi à demain av Sabine Laruelle ;-)	"bonne, 0.7, 0.7, None
+;-), 0.25, 1.0, mood
+"
+0.6775	0.69	J'ai beaucoup aimé Benoit Ludgen face à Sabine Laruelle, super l'interview de Reynders sur le Roi!	"beaucoup !, 0.125, 0.1, None"
+0.15	0.15	Les indépendants, coeur de cible de Sabine Laruelle et Benoît Lutgen http://bit.ly/9uBk2a	"indépendants, 0.1, 0.3, None
+coeur, 0.2, 0.0, None
+"
+0.0	0.0	Après le bus Mathot, le camion Daerden, la caravane las-vegasienne et ,elle, légale de Charles Michel.# be1306 # MR http://twitpic.com/1vslcn	""
+0.9	0.9	RT @anarinx: Inouï: à deux jours des élections, Teitelbaum (MR) appelle à ne pas voter pour Louis et Charles Michel (MR)...	""
+0.9	0.9	Inouï: à deux jours des élections, Teitelbaum (MR) appelle à ne pas voter pour Louis et Charles Michel (MR)...	""
+0.0	0.0	RT @michelhenrion: Charles Michel à L'Avenir: Il y a une sorte d'oligarchie inacceptable en Belgique # be1306# toutcequilfautpaslire	""
+0.0	0.0	RT @michelhenrion: Charles Michel à L'Avenir: Il y a une sorte d'oligarchie inacceptable en Belgique # be1306# toutcequilfautpaslire	""
+0.0	0.0	Charles Michel à L'Avenir: Il y a une sorte d'oligarchie inacceptable en Belgique # be1306# toutcequilfautpaslire	""
+-0.1	0.1	Les voyages de Geert Bourgeois coûtent seulement 182,80 euros http://bit.ly/aSq7fJ	""
+-0.1	0.1	Ah mais c'est qu'il reste en Vlanderen vakantieland hein! RT @charleroiexpres: Les voyages de Geert Bourgeois coûtent seulement 182,80 euros	""
+-0.1	0.1	Les voyages de Geert Bourgeois coûtent seulement 182,80 euros - L'Avenir: http://bit.ly/amm1O4 via @addthis	""
+0.0	0.0	# bhv Une émission de télé montre à Stefaan De Clerck, @hermandecroo ET @demotterudy le clip de BELGIUM IS DEAD !! http://bit.ly/9djTUi	""
+0.0	0.0	Une émission de télé montre à Stefaan De Clerck, @hermandecroo ET @demotterudy le clip de BELGIUM IS DEAD !! http://bit.ly/9djTUi	""
+0.0	0.0	Une émission de télé montre à des politiciens (Stefaan De Clerck, CD&V., Herman De Croo, Open VLD, Rudy Demotte,... http://bit.ly/9djTUi	""
+0.0	0.0	Huissiers d'audience: De Clerck revoit sa circulaire contestée: BRUXELLES Le ministre de la Justice Stefaan De ... http://bit.ly/cnSfQL	"circulaire, 0.0, 0.0, None"
+0.0	0.0	Paul Magnette (PS) veut supprimer l'avantage fiscal sur les épargnes pensions. Avec lui c'est sans vaseline.	""
+0.0	0.0	# be1306 : C'est quoi ce bulletin, Paul Magnette? http://twurl.nl/8jg1om	""
+0.0	0.0	Le Bulletin de Paul Magnette, la réaction de l'intéressé http://goo.gl/P6KV @lesoir	""
+0.0	0.0	C'est quoi ce bulletin, Paul Magnette? http://bit.ly/aE4s8H @politiclub @Paulmagnette http://bit.ly/boIcGp # be1306	""
+0.0	0.0	C'est quoi ce bulletin, Paul Magnette? http://bit.ly/aE4s8H @politiclub @Paulmagnette http://bit.ly/boIcGp # be1306	""
+0.25	1.0	il a deja loué les Gnawas RT @Mateusz: A écouter Philippe Moureaux, on dirait qu'il est déjà formateur ;-) # rtbf # be1306	";-), 0.25, 1.0, mood"
+0.25	1.0	A écouter Philippe Moureaux, on dirait qu'il est déjà formateur ;-) # rtbf # be1306	";-), 0.25, 1.0, mood"
+-0.1	0.1	Philippe Senderos : Fulham grab Philippe Senderos and close on £8m Standard Liege - http://www.askbiography.com/bio/Philippe_Senderos.html	""
+0.0	0.0	Le Rappel incite à voter pour Françoise Schepmans (MR),Joël Rubinfeld (PP),Karine Lalieux (PS),Philippe Mahoux (PS),Willy Demeyer (PS) (1/2)	""
+0.0	0.0	Isabelle Durant : Lexpulsion dArdy est-elle légale ? - Le Monde - http://www.askbiography.com/bio/Isabelle_Durant.html	""
+0.0	0.0	RT @rudyaernoudt: Quand Richard Miller prend mes idées et mes calculs il pourrait au moi avoir la decence de citer ses sources	""
+0.0	0.0	RT @rudyaernoudt: Quand Richard Miller prend mes idées et mes calculs il pourrait au moi avoir la decence de citer ses sources	""
+0.0	0.0	Quand Richard Miller prend mes idées et mes calculs il pourrait au moi avoir la decence de citer ses sources	""
+0.9	0.9	RT @anarinx: Inouï: à deux jours des élections, Teitelbaum (MR) appelle à ne pas voter pour Louis et Charles Michel (MR)...	""
+0.9	0.9	Inouï: à deux jours des élections, Teitelbaum (MR) appelle à ne pas voter pour Louis et Charles Michel (MR)...	""
+-0.21	0.4	# LEcho La répartition de la dette coûterait cher aux Flamands: 18:34 Rudy Aernoudt estime qu'en 2050 un Flamand de... http://bit.ly/afymle	""
+0.0	0.0	Rudy Aernoudt (PP) : «Réduire le nombre de ministres de 62 à 22 postes» http://video.rtlinfo.be/Video/172239.aspx	""
+-0.27	0.125	RT @tetedeliste: Rudy Aernoudt – PP bat Joelle Milquet de peu http://bit.ly/aM3BPF # be1306 # déception	"déception, -0.5, 0.0, None"
+-0.27	0.125	RT @tetedeliste: Rudy Aernoudt – PP bat Joelle Milquet de peu http://bit.ly/aM3BPF # be1306 # déception	"déception, -0.5, 0.0, None"
+0.11	0.3	RT @michelhenrion: Pipolisation: pour De Wever (9 ans ) c'est tout de même le Roi, le patron du pays !. Bart par ses 4 mômes.http://is.gd/bU0TS# be1306# BelRTL	""
+0.11	0.3	RT @michelhenrion: Pipolisation: pour De Wever (9 ans ) c'est tout de même le Roi, le patron du pays !. Bart par ses 4 mômes.http://is.gd/bU0TS# be1306# BelRTL	""
+0.08	0.1	@PhilBruAFP Quel est ce point commun ? # CafeN <> Bart De Wever	""
+0.09	0.05	J'viens de découvrir le point commun entre # cafeN et Bart De Wever...	"découvrir, 0.1, 0.0, None"
+0.11	0.3	Pipolisation: pour De Wever (9 ans ) c'est tout de même le Roi, le patron du pays !. Bart par ses 4 mômes.http://is.gd/bU0TS# be1306# BelRTL	""
+0.3	0.2	# Kiadi : j'ai envie d’avoir une grande poupée qui représente Bart De Wever et avoir des épingles et (cont) http://tl.gd/1qe3ve	"grande, 0.3, 0.2, None"
+0.0	0.0	RT @TVBELGIEK: Pourquoi Bart De Wever déteste le wallon: http://youtu.be/a30idN_v2ZM	""
+0.13	0.13	RT @poplitic: sympathiek - bart de wever et michel daerden sont les deux personnalités politiques les plus sympas. ça... http://tumblr.com/xntbclahg	"politiques, 0.0, 0.0, None
+plus sympas, 0.26, 0.26, None
+"
+0.13	0.13	sympathiek - bart de wever et michel daerden sont les deux personnalités politiques les plus sympas. ça... http://tumblr.com/xntbclahg	"politiques, 0.0, 0.0, None
+plus sympas, 0.26, 0.26, None
+"
+0.0	0.0	RT @CamilleNoulet: Aujourd'hui, j'ai appris que Bart De Wever était historien de formation. Je pense à me ré-orienter. # VDM.	""
+0.0	0.0	Aujourd'hui, j'ai appris que Bart De Wever était historien de formation. Je pense à me ré-orienter. # VDM.	""
+-0.0766666666667	0.466666666667	Michel Daerden et Bart De Wever sont les politiciens les plus cool selon 'les jeunes' (cons?) ☛ http://redi.be/KJAJjYjvo	"plus, 0.15, 0.1, None
+jeunes, 0.32, 0.4, None
+"
+0.15	0.1	Daerden et De Wever sont les politiciens les plus cool: BRUXELLES Michel Daerden et Bart De Wever sont considér... http://bit.ly/bdE3aF	"plus, 0.15, 0.1, None"
+0.15	0.1	# Lavenir Daerden et De Wever, politiciens les plus cool: Michel Daerden et Bart De Wever sont considérés comme les... http://bit.ly/cWTtBg	"plus, 0.15, 0.1, None"
+0.15	0.1	Michel Daerden et Bart De Wever sont les politiciens les plus cool http://bit.ly/bIqLUK	"plus, 0.15, 0.1, None"
+0.156666666667	0.166666666667	# MTVcoolAwards Michel Daerden et Bart De Wever personnalités politiques les plus cool chez les jeunes... Au secours...	"politiques, 0.0, 0.0, None
+plus, 0.15, 0.1, None
+jeunes, 0.32, 0.4, None
+"
+0.323333333333	0.35	# MTVcoolAwards Michel Daerden et Bart De Wever personnalités politiques les plus populaires chez les jeunes... Au secours...	"politiques, 0.0, 0.0, None
+plus populaires, 0.65, 0.65, None
+jeunes, 0.32, 0.4, None
+"
+0.005	0.25	RT @mehmetkoksal: Reynders a demandé à Bart De Wever s'il voulait vivre ensemble dans la même chambre et il a dit oui # ReyndersfaceauxBelges	"même, 0.0, 0.5, None"
+0.005	0.25	Reynders a demandé à Bart De Wever s'il voulait vivre ensemble dans la même chambre et il a dit oui # ReyndersfaceauxBelges	"même, 0.0, 0.5, None"
+0.0	0.0	Bart de Wever vu par les humoristes de Sois Belge et tais-toi!: http://youtu.be/TZ8Npuw_BMo # Be1306	""
+-0.403333333333	0.333333333333	RT @Le_Bux: Bart De Wever: c'est toujours etrange d'etre accuse d'etre un mauvais Belge par des unilingues... # LiveBart	"mauvais, -0.71, 0.8, None"
+-0.403333333333	0.333333333333	RT @Le_Bux: Bart De Wever: c'est toujours etrange d'etre accuse d'etre un mauvais Belge par des unilingues... # LiveBart	"mauvais, -0.71, 0.8, None"
+0.0	0.0	RT Les idées de Bart de Wever restent majoritaires en Flandre http://www.lessentiel.lu/news/monde/story/28294593 http://bit.ly/8ZRV1U	""
+0.0	0.0	Les idées de Bart de Wever restent majoritaires en Flandre http://www.lessentiel.lu/news/monde/story/28294593	""
+0.82	0.6	Rik Torfs très fort sur la VRT	"très, 0.01, 0.65, None"
+0.2375	0.275	Y a comme un bug dans la vidéo de rediffusion de Huis Clos sur rtbf.be! La 1ière minute, un regal http://bit.ly/bYhDVo (cc @johannemontay)	""
+-0.05	0.3	A écouté Huis Clos entre Di Rupo et Reynders http://bit.ly/cqN2ZR La différence est vraiment ténue entre les deux. C'en est bluffant.	"vraiment, 0.0, 0.5, None"
+-0.05	0.15	Huis Clos entre Elio Di Rupo (PS) et Didier Reynders (MR): Ces deux là se connaissent bien, ils connaissent leur p... http://bit.ly/9qD6Wh	""
+-0.05	0.15	Huis Clos entre Elio Di Rupo (PS) et Didier Reynders (MR): Ces deux là se connaissent bien, ils connaissent leur p... http://bit.ly/9qD6Wh	""
+0.7	0.7	RT @michelhenrion: Analyse sémantique: Je vais vous dire... d'Elio Di Rupo, amorce de bon sens pour toujours amener son argument.http://is.gd/bU0TS # BelRTL	"bon, 0.7, 0.7, None"
+0.7	0.7	RT @michelhenrion: Analyse sémantique: Je vais vous dire... d'Elio Di Rupo, amorce de bon sens pour toujours amener son argument.http://is.gd/bU0TS # BelRTL	"bon, 0.7, 0.7, None"
+0.7	0.7	Analyse sémantique: Je vais vous dire... d'Elio Di Rupo, amorce de bon sens pour toujours amener son argument.http://is.gd/bU0TS # BelRTL	"bon, 0.7, 0.7, None"
+0.0	0.0	Les coulisses en image de Sans Langue de Bois et bulletin d'Elio Di Rupo: http://blogs.rtlinfo.be/sanslanguedebois/ # sldb # BelRTL # be1306	""
+0.4365	0.32	Pourquoi Elio Di Rupo est à nouveau le plus fort ?: http://bit.ly/aY3GmV v	"nouveau, 0.34, 0.25, None
+plus, 0.15, 0.1, None
+"
+0.0	0.0	Une émission de télé montre à des politiciens (Stefaan De Clerck, CD&V., Herman De Croo, Open VLD, Rudy Demotte,... http://bit.ly/9djTUi	""
+0.15	0.15	Les indépendants, coeur de cible de Sabine Laruelle et Benoît Lutgen http://bit.ly/9uBk2a	"indépendants, 0.1, 0.3, None
+coeur, 0.2, 0.0, None
+"
+0.0	0.0	Deux gardes du corps pour Bart De Wever le jour des élections http://bit.ly/drdDf6	""
+0.25	1.0	@vinceakadiego Je t'envoies Bart De Wever, il va t'expliquer en flamand ce que sont les francophones ! ;-)	";-), 0.25, 1.0, mood"
+0.0	0.0	Bart De Wever, le Flamand qui fait trembler la Belgique http://bit.ly/9SV7uh via @tdgch (Suisse) # be1306	""
